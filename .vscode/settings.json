@@ -1,0 +1,6 @@
+JSON
+
+   {
+       "editor.tabSize": 2,
+       "files.autoSave": "onFocusChange"
+   }
